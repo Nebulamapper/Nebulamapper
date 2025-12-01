@@ -49,7 +49,7 @@ Hi there, I'm Ben, a game design graduate.
 
  <summary><b>Contact Me</b></summary>
 
-Email :bencamilleri3@gmail.com
+Email: bencamilleri3@gmail.com
 
 </details>
 
