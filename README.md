@@ -21,13 +21,15 @@ A passionate **Software Developer** exploring new technologies and building mean
 ---
 
 ## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:bencamilleri3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="center" style="line-height: 2.2;">
+  <a href="mailto:bencamilleri3@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white" /> &nbsp; bencamilleri3@gmail.com
   </a>
   
-  <a href="https://www.linkedin.com/in/benjamin-jacob-camilleri-407ab530a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <br>
+  
+  <a href="https://www.linkedin.com/in/benjamin-jacob-camilleri-407ab530a/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> &nbsp; Benjamin Camilleri
   </a>
 </p>
 
