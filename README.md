@@ -1,12 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Ben  
-A passionate **software developer** who loves building apps and exploring new technologies.
+# 👋 Hi, I'm Ben
+A passionate **Software Developer** exploring new technologies and building meaningful apps.  
 
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -22,17 +21,29 @@ A passionate **software developer** who loves building apps and exploring new te
 ---
 
 ## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)] bencamilleri3@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-jacob-camilleri-407ab530a/)
+<p align="center">
+  <a href="mailto:bencamilleri3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/benjamin-jacob-camilleri-407ab530a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Interests  
-🎮 Gaming • 📚 Reading • ☕ Coffee Lover • 📼 Music  • 🏄 Surfing
+## 🎯 Interests
+<p align="center">
+  <span>🎮 Gaming</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>📚 Reading</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>☕ Coffee Lover</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>📼 Music</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>🏄 Surfing</span>
+</p>
 
 ---
 
-<img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+<img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
 
 </div>
