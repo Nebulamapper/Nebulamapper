@@ -3,10 +3,12 @@
 ## Info
 
 Hi there, I'm Ben, a game design graduate.
+<details>
 
-  - :computer: I'm currently building 🛠️ personal projects
-  - :school: I'm currently learning AI and ML
-  - :dart: Fun fact : I make music on FL Studio
+<summary><b>About</b></summary>
+  - :computer: I'm currently building 🛠️ personal projects <br>
+  - :school: I'm currently learning AI and ML 🤖 <br>
+  - :dart: Fun fact: I make music on FL Studio 📼 <br>
 </details>
 
 <details>
