@@ -1,12 +1,17 @@
-<div align="center">
 
-# 👋 Hi, I'm Ben
-A passionate **Software Developer** exploring new technologies and building meaningful apps.  
 
----
+## Info
 
-## 💻 Tech Stack
-<p align="center">
+Hi there, I'm Ben, a game design graduate.
+
+  - :computer: I'm currently building 🛠️ personal projects
+  - :school: I'm currently learning AI and ML
+  - :dart: Fun fact : I make music on FL Studio
+</details>
+
+<details>
+
+<summary><b>Skills</b></summary>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,34 +23,35 @@ A passionate **Software Developer** exploring new technologies and building mean
   <img src="https://img.shields.io/badge/Aseprite-ED4C5C?style=for-the-badge&logo=aseprite&logoColor=white" />
 </p>
 
----
+</details>
 
-## 📫 Connect With Me
-<p align="center" style="line-height: 2.2;">
-  <a href="mailto:bencamilleri3@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=white" /> &nbsp; bencamilleri3@gmail.com
-  </a>
-  
-  <br>
-  
-  <a href="https://www.linkedin.com/in/benjamin-jacob-camilleri-407ab530a/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> &nbsp; Benjamin Camilleri
-  </a>
-</p>
+<details>
 
----
+ <summary><b>Where to find me</b></summary>
 
-## 🎯 Interests
-<p align="center">
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/NebulaMapper)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benjamin-jacob-camilleri-407ab530a/)
+
+</details>
+<details>
+
+<summary><b>Interests</b></summary>
+<p>
   <span>🎮 Gaming</span> &nbsp;&nbsp;|&nbsp;&nbsp;
   <span>📚 Reading</span> &nbsp;&nbsp;|&nbsp;&nbsp;
   <span>☕ Coffee Lover</span> &nbsp;&nbsp;|&nbsp;&nbsp;
   <span>📼 Music</span> &nbsp;&nbsp;|&nbsp;&nbsp;
   <span>🏄 Surfing</span>
 </p>
+</details>
 
----
+<details>
 
-<img src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
+ <summary><b>Contact Me</b></summary>
 
-</div>
+Email :bencamilleri3@gmail.com
+
+</details>
+
+
+
