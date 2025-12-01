@@ -23,9 +23,12 @@ A passionate **software developer** who loves building apps and exploring new te
 
 ## 📫 Connect With Me
 
-**Email:** [bencamilleri3@gmail.com](mailto:bencamilleri3@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-jacob-camilleri-407ab530a/)
+<a href="mailto:bencamilleri3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/benjamin-jacob-camilleri-407ab530a/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
 
