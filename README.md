@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi there, I'm Ben, a game design graduate.
+Hi there, I'm Ben, a game design graduate working in IT Support and Data Analysis.
 <details>
 
 <summary><b>About</b></summary>
