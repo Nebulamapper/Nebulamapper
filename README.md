@@ -51,7 +51,7 @@ Hi there, I'm Ben, a game design graduate working in IT Support and Data Analysi
 
  <summary><b>Contact Me</b></summary>
 
-Email: bencamilleri3@gmail.com
+Email: verdesca908@gmail.com
 
 </details>
 
